@@ -1,0 +1,43 @@
+body{background-color: black;
+    
+}
+.post{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    
+}
+.post-header {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;   
+}
+.post-header1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+}
+.post-header2{
+    align-items: center;
+    display: flex;
+    margin: 10px;
+
+}
+.post-body {display: flex;
+    justify-content: space-between;
+
+
+}
+i{font-size:30px;
+    margin: 10px;
+
+}
+img{
+    display: flex;
+}
+.body1 {
+    margin: 10px;
+    padding: 10px;
+}
